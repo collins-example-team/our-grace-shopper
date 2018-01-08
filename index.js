@@ -1,1 +1,1 @@
-wow, this will totally break!
+console.log('wow, this will totally break!');
